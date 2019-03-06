@@ -1,0 +1,15 @@
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\bin\Debug\Kargo_takip.exe.config
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\bin\Debug\Kargo_takip.exe
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\bin\Debug\Kargo_takip.pdb
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.csprojAssemblyReference.cache
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.Frm_Giris.resources
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.Properties.Resources.resources
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.csproj.GenerateResource.cache
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.csproj.CoreCompileInputs.cache
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.exe
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.pdb
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.Frmuyeol.resources
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.Frm_AnaSayfa.resources
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.Frm_Kargoekle.resources
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.Frm_PerEkleme.resources
+C:\Users\berk-\source\repos\Kargo_takip\Kargo_takip\obj\Debug\Kargo_takip.Frm_PerListele.resources
